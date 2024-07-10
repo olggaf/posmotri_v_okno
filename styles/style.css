@@ -165,8 +165,6 @@ ol {
   margin: auto;
   width: 15px;
   height: 15px;
-  /* position: absolute; */
-  /* inset: 1px; */
   background-color: currentColor;
 }
 
